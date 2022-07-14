@@ -1,4 +1,4 @@
-# Guilherme Miua
+# Guilherme Eiti Akita Miua
 
 Software Engineer based in São Paulo, Brazil.
 
